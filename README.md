@@ -1,17 +1,70 @@
-This is a personal website By Harish Krishnappan for CSCE464. This website is made in using react and bootstrap as frameworks.
+# Getting Started with Create React App
 
-Some onlines rescources that I used are: react-bootstrap docs for bootstrap incorporation: https://react-bootstrap.netlify.app/components/buttons/#rb-docs-content and https://www.youtube.com/watch?v=eow125xV5-c
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-w3Schools for navbar, css styling, onhover, positioning, transform, scale, forms, syntax, and much more for syntax: https://www.w3schools.com/html/html_css.asp
+## Available Scripts
 
 email.js tutorial: https://www.youtube.com/watch?v=NgWGllOjkbs
 
 Codepen for CSS for heading: https://codepen.io/vedadesigns/pen/GPxYZg
 
-css sytyling elements tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s and https://stackabuse.com/how-to-style-hover-in-react/
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-navbar sections: https://www.google.com/search?q=selection+navbar+react&biw=1680&bih=867&tbm=vid&sxsrf=AJOqlzU8MIaJK2_QF1mMUFUUE1N8gRxsLg%3A1678572825923&ei=Gf0MZN_5N8ynptQP2fusoAU&ved=0ahUKEwif6pKI89T9AhXMk4kEHdk9C1QQ4dUDCA0&uact=5&oq=selection+navbar+react&gs_lcp=Cg1nd3Mtd2l6LXZpZGVvEAMyCAghEKABEMMEOgcIABANEIAEOggIABAIEAcQHjoKCCEQoAEQwwQQClAHWPoFYOoGaABwAHgCgAGsAYgB8AaSAQM1LjOYAQCgAQHAAQE&sclient=gws-wiz-video#fpstate=ive&vld=cid:6375cf67,vid:fL8cFqhTHwA
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-rem: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
+### `npm test`
 
-containers: https://react-bootstrap.github.io/layout/grid/
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
