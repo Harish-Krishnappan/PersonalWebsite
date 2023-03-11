@@ -9,4 +9,5 @@ email.js tutorial: https://www.youtube.com/watch?v=NgWGllOjkbs
 
 Codepen for CSS for heading: https://codepen.io/vedadesigns/pen/GPxYZg
 
-css sytyling elements tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s
+css sytyling elements tutorial: https://www.youtube.com/watch?v=I2UBjN5ER4s and https://stackabuse.com/how-to-style-hover-in-react/
+
