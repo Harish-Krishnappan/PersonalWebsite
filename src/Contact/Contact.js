@@ -12,7 +12,6 @@ function Contact()
 
     emailjs.sendForm('service_abgosdj', 'template_m5pi14s', form.current, '9OlUggknYeKYAXBQI')
       .then((result) => {
-          console.log(result.text);
           document.getElementById('span').innerHTML = "     Thank You! Your Message has been Sent!";
         }, (error) => {
           console.log(error.text);
@@ -29,14 +28,17 @@ function Contact()
           <label htmlFor="name">Name:</label>
           <input type="text" id="name" name="name" className="form-control" required/>
         </div>
+        <br/>
         <div className="form-group">
           <label htmlFor="email">Email:</label>
           <input type="email" id="email" name="email" className="form-control" required />
         </div>
+        <br/>
         <div className="form-group">
           <label htmlFor="message">Message:</label>
           <textarea id="message" name="message" className="form-control" rows="5" required />
         </div>
+        <br/>
         <Button id = "button" variant="primary" size="sm" type="submit">Submit</Button>
         <span id = "span"></span>
       </form>

@@ -4,8 +4,21 @@
   margin: 0 auto;
 }
 
-#Contact .form-group {
+#Contact .divForBox {
   margin-bottom: 20px;
+}
+
+#Contact .label {
+  border: 1px solid black;
+}
+
+#Contact .form-control {
+  border: 1px solid black;
+  color: black !important;
+}
+
+#email, #name, #messageBox{
+  color: green !important;
 }
 
 #Contact label {
@@ -39,3 +52,25 @@
   font-size: 20px;
 }
 
+/* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */
+  #contactTitle {
+    text-align: center;
+        font-size:30px; font-weight:300; color:#222; letter-spacing:1px;
+        text-transform: uppercase;
+    
+        display: grid;
+        grid-template-columns: 1fr max-content 1fr;
+        grid-template-rows: 27px 0;
+        grid-gap: 20px;
+        align-items: center;
+      font-weight: bold;
+    }
+    
+    #contactTitle:after,#contactTitle:before {
+        content: " ";
+        display: block;
+        border-bottom: 1px solid #e3a405;
+        border-top: 1px solid #e3a405;
+        height: 10px;
+      background-color:white;
+    }

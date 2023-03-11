@@ -12,19 +12,21 @@
   margin-top: -50px;
 }
 
-h1.hi {
+.hi {
+  font-weight: bold !important;
+  color: black;
+  font-size: 4.2rem !important;
+}
+
+.future {
   font-weight: bold;
+  font-size: 2.0rem !important;
   color: black;
 }
 
-h2 {
-  font-weight: bold;
+.unl {
   color: black;
-}
-
-p.unl {
-  color: black;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: center;
   padding-bottom: 50px;
 }

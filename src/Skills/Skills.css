@@ -3,12 +3,12 @@
   text-align: center;
 }
 
-.skills-heading {
+.heading {
   color: black;
   margin-bottom: 1rem;
 }
 
-.skills-list {
+.list {
   color: black;
   margin-bottom: 2rem;
   display: flex;
@@ -16,7 +16,7 @@
   justify-content: center;
 }
 
-.skills-list-item {
+.mySkills {
   padding: 10px 20px;
   margin: 10px;
   border-radius: 5px;
@@ -26,7 +26,7 @@
   border: 1px solid black;
 }
 
-.skills-list-item:hover {
+.mySkills:hover {
   background-color: white;
   color: black;
   transform: scale(1.1);
@@ -35,3 +35,26 @@
 #skills {
   padding-bottom: 15px;
 }
+
+/* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */
+.skills h1 {
+  text-align: center;
+      font-size:30px; font-weight:300; color:#222; letter-spacing:1px;
+      text-transform: uppercase;
+  
+      display: grid;
+      grid-template-columns: 1fr max-content 1fr;
+      grid-template-rows: 27px 0;
+      grid-gap: 20px;
+      align-items: center;
+    font-weight: bold;
+  }
+  
+  .skills h1:after,.skills h1:before {
+      content: " ";
+      display: block;
+      border-bottom: 1px solid #e3a405;
+      border-top: 1px solid #e3a405;
+      height: 10px;
+      background-color:#f8f8f8;
+  }

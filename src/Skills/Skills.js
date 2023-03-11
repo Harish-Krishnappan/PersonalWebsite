@@ -6,36 +6,36 @@ return (
 <div className="skills">
 <h1>Skills</h1>
 <div>
-<h2 className="skills-heading">Software</h2>
-<div className="skills-list">
-<div className="skills-list-item">Java</div>
-<div className="skills-list-item">C/C#</div>
-<div className="skills-list-item">React</div>
-<div className="skills-list-item">JavaScript</div>
-<div className="skills-list-item">SQL</div>
-<div className="skills-list-item">HTML</div>
-<div className="skills-list-item">CSS</div>
-<div className="skills-list-item">Python</div>
-<div className="skills-list-item">Unix Programming</div>
-<div className="skills-list-item">Microsoft Office</div>
+<h2 className="heading">Software</h2>
+<div className="list">
+<div className="mySkills">Java</div>
+<div className="mySkills">C/C#</div>
+<div className="mySkills">React</div>
+<div className="mySkills">JavaScript</div>
+<div className="mySkills">SQL</div>
+<div className="mySkills">HTML</div>
+<div className="mySkills">CSS</div>
+<div className="mySkills">Python</div>
+<div className="mySkills">Unix Programming</div>
+<div className="mySkills">Microsoft Office</div>
 </div>
 </div>
 <div>
-<h2 className="skills-heading">Processes and Environments</h2>
-<div className="skills-list">
-<div className="skills-list-item">Agile</div>
-<div className="skills-list-item">Scrum</div>
-<div className="skills-list-item">SOLID Principles</div>
-<div className="skills-list-item">iDesign</div>
-<div className="skills-list-item">MVC</div>
-<div className="skills-list-item">UI & UX</div>
-<div className="skills-list-item">CI/CD</div>
-<div className="skills-list-item">Git</div>
-<div className="skills-list-item">Unit Testing</div>
-<div className="skills-list-item">Cloud Computing</div>
-<div className="skills-list-item">Application Security</div>
-<div className="skills-list-item">Dependency Management</div>
-<div className="skills-list-item">Software Architecture</div>
+<h2 className="heading">Processes and Environments</h2>
+<div className="list">
+<div className="mySkills">Agile</div>
+<div className="mySkills">Scrum</div>
+<div className="mySkills">SOLID Principles</div>
+<div className="mySkills">iDesign</div>
+<div className="mySkills">MVC</div>
+<div className="mySkills">UI & UX</div>
+<div className="mySkills">CI/CD</div>
+<div className="mySkills">Git</div>
+<div className="mySkills">Unit Testing</div>
+<div className="mySkills">Cloud Computing</div>
+<div className="mySkills">Application Security</div>
+<div className="mySkills">Dependency Management</div>
+<div className="mySkills">Software Architecture</div>
 </div>
 </div>
 </div>

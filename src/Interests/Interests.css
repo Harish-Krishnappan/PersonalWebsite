@@ -10,24 +10,47 @@
   margin-bottom: 2rem;
 }
 
-.interests-section {
+.activity {
   margin-bottom: 2rem;
   padding: 1rem;
   border: 1px solid white;
   border-radius: 5px;
 }
 
-.interests-section:hover {
+.activity:hover {
   background-color: white;
 }
 
-.interests-section-heading {
+.heading {
   font-size: 1.5rem;
   color: black;
   margin-bottom: 1rem;
 }
 
-.interests-section-description {
+.description {
   font-size: 1rem;
   color: black;
 }
+
+/* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */
+#title{
+  text-align: center;
+      font-size:30px; font-weight:300; color:#222; letter-spacing:1px;
+      text-transform: uppercase;
+  
+      display: grid;
+      grid-template-columns: 1fr max-content 1fr;
+      grid-template-rows: 27px 0;
+      grid-gap: 20px;
+      align-items: center;
+    font-weight: bold;
+  }
+  
+  #title:after,#title:before {
+      content: " ";
+      display: block;
+      border-bottom: 1px solid #e3a405;
+      border-top: 1px solid #e3a405;
+      height: 10px;
+      background-color:#4293d1;
+  }

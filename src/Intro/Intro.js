@@ -7,7 +7,7 @@ function Intro() {
         <div className="col-md-8 col-lg-6 text-center">
           <h1 className="hi">Hi, I'm Harish Krishnappan</h1>
           <h2 className="future">A Future Software Engineer</h2>
-          <p className="unl">I am currently a student at UNL. Explore my website to learn more about me.</p>
+          <p className="unl">Explore my website to learn more about me.</p>
         </div>
       </div>
     </div>

@@ -21,3 +21,34 @@ p {
   margin-bottom: 0;
 }
 
+#hovering:hover{
+  background-color: #4293d1;
+  border-radius: 30px;
+  padding: 15px;
+  scale:(1.1);
+  border: 1px solid black;
+}
+
+/* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */
+#aboutTitle{
+  text-align: center;
+      font-size:30px; font-weight:300; color:black; letter-spacing:1px;
+      text-transform: uppercase;
+  
+      display: grid;
+      grid-template-columns: 1fr max-content 1fr;
+      grid-template-rows: 27px 0;
+      grid-gap: 20px;
+      align-items: center;
+    font-weight: bold;
+  }
+  
+  #aboutTitle:after, #aboutTitle:before {
+      content: " ";
+      display: block;
+      border-bottom: 1px solid #e3a405;
+      border-top: 1px solid #e3a405;
+      height: 10px;
+      background-color: white;
+  }
+
