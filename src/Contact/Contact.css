@@ -1,0 +1,41 @@
+#Contact {
+  padding-top: 40px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#Contact .form-group {
+  margin-bottom: 20px;
+}
+
+#Contact label {
+  font-weight: bold;
+}
+
+#Contact textarea {
+  resize: none;
+}
+
+#contactTitle {
+  text-align: center;
+}
+
+#button
+{
+  background-color: #4293d1;
+  border: 1px solid black;
+}
+
+#button:hover {
+  background-color: white;
+  color: black;
+  transform: scale(1.1);
+}
+
+#span{
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+

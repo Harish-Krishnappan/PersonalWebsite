@@ -1,0 +1,33 @@
+.interests {
+  padding: 2rem;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.interests-heading {
+  font-size: 2rem;
+  color: black;
+  margin-bottom: 2rem;
+}
+
+.interests-section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.interests-section:hover {
+  background-color: white;
+}
+
+.interests-section-heading {
+  font-size: 1.5rem;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.interests-section-description {
+  font-size: 1rem;
+  color: black;
+}
