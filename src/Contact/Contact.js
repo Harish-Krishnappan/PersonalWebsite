@@ -39,7 +39,7 @@ function Contact()
           <textarea id="message" name="message" className="form-control" rows="5" required />
         </div>
         <br/>
-        <Button id = "button" variant="primary" size="sm" type="submit">Submit</Button>
+        <Button id = "button" variant="primary" size="sm" type="submit">Send Message</Button>
         <span id = "span"></span>
       </form>
     </div>

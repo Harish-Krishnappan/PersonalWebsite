@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import './NavBar.css';
 import Image from './linkedin.png';
 
+// Used w3schools, my dad, webflow, and other rescources listed in the navbar section readMe for help on this function
 function NavBar() {
   useEffect(() => {
     const links = document.querySelectorAll('#navBar a');

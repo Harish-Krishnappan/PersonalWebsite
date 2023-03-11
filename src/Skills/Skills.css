@@ -53,8 +53,8 @@
   .skills h1:after,.skills h1:before {
       content: " ";
       display: block;
-      border-bottom: 1px solid #e3a405;
-      border-top: 1px solid #e3a405;
+      border-bottom: 2px solid #f27908;
+      border-top: 2px solid #f27908;
       height: 10px;
       background-color:#f8f8f8;
   }
