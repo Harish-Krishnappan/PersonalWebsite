@@ -7,7 +7,7 @@ function PictureOfMe() {
     <div className="container">
       <div className="row justify-content-center align-items-center">
         <div className="col-md-6 col-lg-4">
-          <div className="PictureOfMe rounded-circle overflow-hidden">
+          <div className="PictureOfMe overflow-hidden">
             <img src={nbImage} alt="logo" className="w-100 h-100 object-fit-cover"/>
           </div>
         </div>

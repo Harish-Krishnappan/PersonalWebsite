@@ -4,12 +4,6 @@
   text-align: center;
 }
 
-.interests-heading {
-  font-size: 2rem;
-  color: black;
-  margin-bottom: 2rem;
-}
-
 .activity {
   margin-bottom: 2rem;
   padding: 1rem;
@@ -32,7 +26,7 @@
   color: black;
 }
 
-/* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */
+/* Got From CSS for heading: https://codepen.io/vedadesigns/pen/GPxYZg */
 #title{
   text-align: center;
       font-size:30px; font-weight:300; color:#222; letter-spacing:1px;
