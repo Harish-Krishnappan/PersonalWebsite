@@ -4,6 +4,8 @@ function About() {
   return (
     <section id = "about">
     <div id="background">
+    <br/>
+      <br/>
       <div className="container my-5">
         <div className="row justify-content-center">
           <div className="col-lg-8">
@@ -16,6 +18,7 @@ function About() {
           </div>
         </div>
       </div>
+      <br/><br/>
     </div>
     </section>
   );

@@ -4,6 +4,7 @@ function Skills() {
 return (
 <section id="skills">
 <div className="skills">
+<br/>
 <h1>Skills</h1>
 <div>
 <h2 className="heading">Software</h2>
@@ -38,6 +39,7 @@ return (
 <p className="mySkills">Software Architecture</p>
 </div>
 </div>
+<br/>
 </div>
 </section>
 );

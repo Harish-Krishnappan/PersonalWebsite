@@ -11,8 +11,9 @@ import Interests from "./Interests/Interests.js"
 function App() {
   return (
     <div className="App">
-      <div id = "frontPage" className="shadow-bottom">
+      <div id = "frontPage">
         <Navbar/>
+        <br/>
         <PictureOfMe/>
         <Intro/>
       </div>

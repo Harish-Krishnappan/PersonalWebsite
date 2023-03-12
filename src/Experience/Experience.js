@@ -9,9 +9,10 @@ function Experience()
 {
   return(
 		<section id = "experience">
-				<br/>	<br/>
+				<br/>	<br/><br/>
     <div className="container">
 		<h1 id = "workExperience">Work Experience</h1>
+		<br/>
 		<div className="row">
 			<div className="col-md-6">
 			<div className = "box1">
@@ -20,7 +21,7 @@ function Experience()
 				<br/>
 				<div className = "inline">
 				<img src = {olsson} height = {90} width = {170} alt = "olsson"/>
-				<h2>Lincoln, Ne</h2>
+				<h2>Design Studio</h2>
 				<h3>August 2022 - Present</h3>
 				</div>
         <ul>
@@ -28,6 +29,7 @@ function Experience()
 					<li>Implemented file system to allow users to import and translate various Lidar files into Forge Viewer </li>
 					<li>Conducted thorough testing and debugging to ensure the stability and performance of web application.</li>
           <li>Mentored and helped onboard other interns and provided guidance on technical challenges and best practices.</li>
+					<li>Presented and demoed webpage models and features to stakeholders and at showcases</li>
 				</ul>
 			</div>
 			<div className="col-md-6">

@@ -22,6 +22,7 @@ function Contact()
   return(
     <section id = "contact">
     <div id="Contact">
+    <br/>
       <h1 id = "contactTitle">Send me a Message</h1>
       <form ref={form} onSubmit={sendEmail} className="form">
         <div className="form-group">
@@ -43,7 +44,7 @@ function Contact()
         <span id = "span"></span>
       </form>
     </div>
-    <br/><br/>
+    <br/><br/><br/>
     </section>
   );
 }
