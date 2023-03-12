@@ -1,4 +1,4 @@
-This is a personal website By Harish Krishnappan for CSCE464. This website is made in using react and bootstrap as frameworks.
+This is a personal website By Harish Krishnappan for CSCE464. This website is made in javascript using react and bootstrap as frameworks.
 
 Some onlines rescources that I used are: react-bootstrap docs for bootstrap incorporation: https://react-bootstrap.netlify.app/components/buttons/#rb-docs-content and https://www.youtube.com/watch?v=eow125xV5-c
 
@@ -15,3 +15,5 @@ navbar sections and auto scroll: https://www.google.com/search?q=selection+navba
 rem: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 
 containers: https://react-bootstrap.github.io/layout/grid/
+
+I also recieved styling and css help from my dad
