@@ -21,12 +21,21 @@ p {
   margin-bottom: 0;
 }
 
-#hovering:hover{
-  border-radius: 30px;
-  padding: 15px;
-  border: 1px solid white;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-  transform: scale(1.1);
+#centerButton{
+  text-align: center;
+}
+
+#resume{
+  background-color: #4293d1;
+  border: 1px solid black;
+  color:white
+}
+
+#resume:hover{
+  border: 1px solid black;
+  transform: scale(1.3);
+  background-color: white;
+  color: black
 }
 
 /* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */

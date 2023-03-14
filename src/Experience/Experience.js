@@ -4,7 +4,6 @@ import olsson from './o.logo.png'
 import ameritas from './a.logo.png'
 import unl from './u.logo.png'
 
-
 function Experience()
 {
   return(
@@ -20,7 +19,7 @@ function Experience()
 				</div>
 				<br/>
 				<div className = "inline">
-				<img src = {olsson} height = {90} width = {170} alt = "olsson"/>
+				<img src = {olsson} height = {55} width = {170} alt = "olsson"/>
 				<h2>Design Studio</h2>
 				<h3>August 2022 - Present</h3>
 				</div>
@@ -97,7 +96,7 @@ function Experience()
 			</div>
 		</div>
 	</div>
-	<br/>	<br/>	<br/>	<br/>
+	<br/>	<br/>	<br/>
 	</section>
   );
 }
