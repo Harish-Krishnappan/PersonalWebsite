@@ -21,7 +21,7 @@
 
   .mySkills:hover {
     background-color: #f27908 !important;
-    color: #0d253f !important;
+    color: white !important;
     border: 1px solid white !important;
   }
 }

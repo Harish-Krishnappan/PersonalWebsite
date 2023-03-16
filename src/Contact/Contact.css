@@ -26,6 +26,12 @@
     color: white !important;
     border: 1px solid white !important;
   }
+  #gmail {
+    color: white !important;
+  }
+  #atag{
+    color: white !important
+  }
 }
 
 #Contact {
@@ -45,10 +51,6 @@
 #Contact .form-control {
   border: 1px solid black;
   color: black !important;
-}
-
-#email, #name, #messageBox{
-  color: green !important;
 }
 
 #Contact label {
@@ -81,6 +83,24 @@
   color: black;
   font-weight: bold;
   font-size: 20px;
+}
+
+#atag{
+  color: black;
+}
+
+#mail{
+  height: 40px;
+  width: 45px;
+}
+
+#gmail {
+  float: right;
+  color: black
+}
+
+#gmail:hover {
+  text-decoration: underline;
 }
 
 /* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */

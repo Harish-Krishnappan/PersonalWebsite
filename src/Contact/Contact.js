@@ -1,6 +1,7 @@
 import { useRef }  from "react"
 import { Button } from 'react-bootstrap'
 import emailjs from '@emailjs/browser'
+import Image from './mail.png'
 import './Contact.css'
 
 function Contact()
@@ -41,6 +42,12 @@ function Contact()
         </div>
         <br/>
         <Button id = "button" variant="primary" size="sm" type="submit">Send Message</Button>
+        <div id = "gmail">
+        <a id = "atag" href="mailto:hkrishnappan2@huskers.unl.edu" target = "_blank" rel="noreferrer" style={{textDecoration: "none"}}>
+          <img id="mail" src={Image} alt="mail"/>
+        <span id = "email">&nbsp;Hkrishnappan2@huskers.unl.edu</span>
+        </a>
+        </div>
         <div id = "span"></div>
       </form>
     </div>

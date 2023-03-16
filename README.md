@@ -1,4 +1,4 @@
-This is a personal website By Harish Krishnappan for CSCE464. This website is made in javascript using react and bootstrap as frameworks.
+This is a personal website By Harish Krishnappan for CSCE464. This website is made in javascript using react and bootstrap as frameworks. The link to the webpage is: https://harish-krishnappan.github.io/PersonalWebsite/
 
 Some onlines rescources that I used are: react-bootstrap docs for bootstrap incorporation: https://react-bootstrap.netlify.app/components/buttons/#rb-docs-content and https://www.youtube.com/watch?v=eow125xV5-c
 
