@@ -1,3 +1,14 @@
+@media (prefers-color-scheme: dark) {
+  #title:after, #title:before {
+    background-color: #343a40 !important;
+    border-bottom: 2px solid #f27908 !important;
+    border-top: 2px solid #f27908 !important;
+  }
+  .interests .activity:hover{
+    background-color: #f27908 !important;
+  }
+}
+
 .interests {
   padding: 2rem;
   border-radius: 5px;

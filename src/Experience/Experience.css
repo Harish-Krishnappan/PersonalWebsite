@@ -1,3 +1,21 @@
+@media (prefers-color-scheme: dark) {
+  #workExperience:after, #workExperience:before {
+    background-color: #343a40 !important;
+    border-bottom: 2px solid #f27908 !important;
+    border-top: 2px solid #f27908 !important;
+  }
+
+  .box1{
+    border: 1px solid white !important;
+    background-color: #343a40 !important;
+  }
+
+  .box1:hover{
+    color: orange !important;
+    background-color: #f27908 !important;
+  }
+}
+
 h1 {
   font-size: 2rem;
   font-weight: bold;
@@ -31,7 +49,7 @@ h1 {
   }
 
   .box1 {
-    border: 1px solid white;
+    border: 1px solid #f27908;
     border-radius: 10px;
   }
 

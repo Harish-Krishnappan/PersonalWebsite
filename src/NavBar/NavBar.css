@@ -1,17 +1,29 @@
+@media (prefers-color-scheme: dark) {
+  .bar {
+    background-color: black !important;
+    opacity: 0.85 !important;
+  }
+
+  #Harish .Nav a:hover {
+  background-color: black !important;
+}
+}
+
 .bar {
   list-style-type: none;
   margin: 0;
   overflow: hidden;
   background-color: #333;
   opacity: 0.9;
+  height: 53px;
 }
 
-li {
+.Nav {
   float: right;
   font-size: 17px;
 }
 
-li a {
+.Nav a {
   display: block;
   color: white;
   text-align: center;
@@ -19,7 +31,7 @@ li a {
   text-decoration: none;
 }
 
-#Harish li a
+#Harish .Nav a
 {
   color: #f27908;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -29,11 +41,16 @@ li a {
   margin-left: 0;
 }
 
+#Harish .Nav a:hover
+{
+  background-color: #333;
+}
+
 #Harish {
   float: left;
 }
 
-li a:hover {
+.Nav a:hover {
   background-color: white;
 }
 

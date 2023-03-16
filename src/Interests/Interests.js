@@ -21,7 +21,7 @@ function Interests() {
       </div>
       <div className="activity">
         <h2 className="heading">FishKeeping</h2>
-        <p className="description">I have a 50 gallon fish tank with many different species of tropical fish. One of my favorite activities is the aquascaping and making the aquarium look neat.</p>
+        <p className="description">I have a 50 gallon fish tank with many different species of tropical fish. One of my favorite activities is the aquascaping and making the aquarium fish friendly.</p>
       </div>
       <br/>
     </div>

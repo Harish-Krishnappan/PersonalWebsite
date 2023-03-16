@@ -41,7 +41,7 @@ function Contact()
         </div>
         <br/>
         <Button id = "button" variant="primary" size="sm" type="submit">Send Message</Button>
-        <span id = "span"></span>
+        <div id = "span"></div>
       </form>
     </div>
     <br/><br/><br/>

@@ -16,4 +16,6 @@ rem: https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
 
 containers: https://react-bootstrap.github.io/layout/grid/
 
+media for dark mode: https://blog.logrocket.com/dark-mode-in-react-an-in-depth-guide/
+
 I also recieved styling and css help from my dad

@@ -1,3 +1,33 @@
+@media (prefers-color-scheme: dark) {
+  p, h1, h2, h3, ul, li{
+    color: white !important;
+  }
+  #contactTitle:after, #contactTitle:before {
+    background-color: #0d253f !important;
+    border-bottom: 2px solid #f27908 !important;
+    border-top: 2px solid #f27908 !important;
+  }
+  #Contact{
+    color: white !important;
+  }
+
+  #span{
+    color: white !important;
+  }
+
+  #button {
+    background-color: #0d253f !important;
+    color: white !important;
+    border: 1px solid white !important;
+  }
+
+  #button:hover {
+    background-color: #f27908 !important;
+    color: white !important;
+    border: 1px solid white !important;
+  }
+}
+
 #Contact {
   padding-top: 40px;
   width: 800px;
@@ -37,6 +67,7 @@
 {
   background-color: #4293d1;
   border: 1px solid black;
+  color: black
 }
 
 #button:hover {

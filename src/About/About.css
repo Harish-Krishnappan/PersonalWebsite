@@ -1,3 +1,27 @@
+@media (prefers-color-scheme: dark) {
+  #About, p, h1, h2, h3, ul, li{
+    color: white !important;
+  }
+
+  #aboutTitle:after, #aboutTitle:before {
+    background-color: #0d253f !important;
+    border-bottom: 2px solid #f27908 !important;
+    border-top: 2px solid #f27908 !important;
+  }
+
+  #resume{
+    background-color: #0d253f !important;
+    color: white !important;
+    border: 1px solid white !important;
+
+  }
+
+  #resume:hover{
+    background-color: #f27908 !important;
+    color: white !important;
+  }
+}
+
 #About {
   background-color: #f2f2f2;
   padding: 20px;
@@ -28,7 +52,7 @@ p {
 #resume{
   background-color: #4293d1;
   border: 1px solid black;
-  color:white
+  color:black;
 }
 
 #resume:hover{

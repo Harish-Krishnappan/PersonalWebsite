@@ -1,3 +1,31 @@
+@media (prefers-color-scheme: dark) {
+  #About, p, h1, h2, h3, ul, li {
+    color: white !important;
+  }
+
+  .skills h1:after, .skills h1:before {
+    background-color: #0d253f !important;
+    border-bottom: 2px solid #f27908 !important;
+    border-top: 2px solid #f27908 !important;
+  }
+
+  .list {
+    color: black !important;
+  }
+
+  .mySkills { 
+    background-color: #0d253f !important;
+    color: white !important;
+    border: 1px solid white !important;
+  }
+
+  .mySkills:hover {
+    background-color: #f27908 !important;
+    color: #0d253f !important;
+    border: 1px solid white !important;
+  }
+}
+
 .skills {
   padding: 50px;
   text-align: center;

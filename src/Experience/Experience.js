@@ -38,7 +38,7 @@ function Experience()
 				<br/>
 				<div className = "inline">
 				<img src = {spreetail} height = {60} width = {170} alt = "olsson"/>
-				<h2>Lincoln, Ne</h2>
+				<h2>Lincoln, NE</h2>
 				<h3>May 2022 - August 2022</h3>
 				</div>
         <ul>
@@ -62,7 +62,7 @@ function Experience()
 				<br/>
 				<div className = "inline">
 				<img src = {unl} height = {70} width = {170} alt = "unl"/>
-				<h2>Lincoln, Ne</h2>
+				<h2>Lincoln, NE</h2>
 				<h3>August 2021 - Present</h3>
 				</div>
         <ul>
@@ -82,7 +82,7 @@ function Experience()
 				<br/>
 				<div className = "inline">
 				<img src = {ameritas} height = {70} width = {170} alt = "ameritas"/>
-				<h2>Lincoln, Ne</h2>
+				<h2>Lincoln, NE</h2>
 				<h3>July 2021 - November 2021</h3>
 				</div>
         <ul>
