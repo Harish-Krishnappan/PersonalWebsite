@@ -85,7 +85,7 @@
 }
 
 #span{
-  text-align: center;
+  text-align: center !important;
   color: black;
   font-weight: bold;
   font-size: 20px;

@@ -13,7 +13,7 @@ function Contact()
 
     emailjs.sendForm('service_abgosdj', 'template_m5pi14s', form.current, '9OlUggknYeKYAXBQI')
       .then((result) => {
-          document.getElementById('span').innerHTML = "     Thank You! Your Message has been Sent!";
+          document.getElementById('span').innerHTML = "Thank You! Your Message has been Sent!";
         }, (error) => {
           console.log(error.text);
       });
@@ -47,7 +47,7 @@ function Contact()
           <img id="mail" src={Image} alt="mail"/>
         <span id = "email">&nbsp;Hkrishnappan2@huskers.unl.edu</span>
         </a>
-        </div>
+        </div><br></br><br></br>
         <div id = "span"></div>
       </form>
     </div>
