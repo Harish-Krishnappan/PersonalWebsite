@@ -3,7 +3,7 @@
     color: white !important;
   }
   #contactTitle:after, #contactTitle:before {
-    background-color: #0d253f !important;
+    background-color: #343a40 !important;
     border-bottom: 2px solid #f27908 !important;
     border-top: 2px solid #f27908 !important;
   }
@@ -16,7 +16,7 @@
   }
 
   #button {
-    background-color: #0d253f !important;
+    background-color: #343a40 !important;
     color: white !important;
     border: 1px solid white !important;
   }
@@ -29,8 +29,14 @@
   #gmail {
     color: white !important;
   }
-  #atag{
-    color: white !important
+  #atag {
+    color: white !important;
+  }
+  #gmail:hover {
+    color: lightblue !important;
+  }
+  #atag:hover{
+    color: lightblue !important
   }
 }
 
@@ -89,6 +95,10 @@
   color: black;
 }
 
+#atag:hover{
+  color: blue;
+}
+
 #mail{
   height: 40px;
   width: 45px;
@@ -101,6 +111,7 @@
 
 #gmail:hover {
   text-decoration: underline;
+  color: blue;
 }
 
 /* Code Title Styling from: https://codepen.io/vedadesigns/pen/GPxYZg */

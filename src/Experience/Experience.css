@@ -1,13 +1,13 @@
 @media (prefers-color-scheme: dark) {
   #workExperience:after, #workExperience:before {
-    background-color: #343a40 !important;
+    background-color: #0d253f !important;
     border-bottom: 2px solid #f27908 !important;
     border-top: 2px solid #f27908 !important;
   }
 
   .box1{
     border: 1px solid white !important;
-    background-color: #343a40 !important;
+    background-color: #0d253f !important;
   }
 
   .box1:hover{

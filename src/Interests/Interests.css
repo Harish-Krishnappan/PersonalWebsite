@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: dark) {
   #title:after, #title:before {
-    background-color: #343a40 !important;
+    background-color: #0d253f !important;
     border-bottom: 2px solid #f27908 !important;
     border-top: 2px solid #f27908 !important;
   }

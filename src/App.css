@@ -1,9 +1,9 @@
 @media (prefers-color-scheme: dark) {
   #frontPage, #secondPage, #fourthPage {
-    background-color: #343a40 !important;
+    background-color: #0d253f !important;
   }
   #thirdPage, .App {
-    background-color: #0d253f !important;
+    background-color: #343a40 !important;
   }
 }
 
